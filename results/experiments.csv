@@ -1,0 +1,4 @@
+mode,best_val_accuracy,best_epoch,epochs_to_90_percent,training_seconds,checkpoint
+feature,1.0,1,1,125.70024579999972,models\mobilenet_v2_feature.pth
+partial,1.0,1,1,72.13951259999976,models\mobilenet_v2_partial.pth
+scratch,1.0,8,8,151.5377021000004,models\mobilenet_v2_scratch.pth

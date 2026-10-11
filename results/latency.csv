@@ -1,0 +1,4 @@
+checkpoint,device,batch_size,warmup_iterations,measured_iterations,mean_ms,median_ms,p95_ms,image
+models\mobilenet_v2_feature.pth,cpu,1,20,100,27.414,24.192,51.691,box_merah\box_merah__frame_000000000.jpg
+models\mobilenet_v2_partial.pth,cpu,1,20,100,21.278,18.773,38.855,box_merah\box_merah__frame_000000000.jpg
+models\mobilenet_v2_scratch.pth,cpu,1,20,100,23.487,21.175,41.865,box_merah\box_merah__frame_000000000.jpg
